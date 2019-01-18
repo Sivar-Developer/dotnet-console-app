@@ -1,4 +1,5 @@
 ﻿using System;
+using Newtonsoft.Json;
 
 namespace firstcore
 {
@@ -6,6 +7,7 @@ namespace firstcore
     {
         static void Main(string[] args)
         {
+            Console.WriteLine(JsonConvert.SerializeObject(args));
             Console.WriteLine("Hello From My Console App!");
         }
     }
