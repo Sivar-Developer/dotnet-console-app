@@ -1,0 +1,11 @@
+D:\workspace\asp.net\mvc\firstcore\bin\Debug\netcoreapp2.1\firstcore.deps.json
+D:\workspace\asp.net\mvc\firstcore\bin\Debug\netcoreapp2.1\firstcore.runtimeconfig.json
+D:\workspace\asp.net\mvc\firstcore\bin\Debug\netcoreapp2.1\firstcore.runtimeconfig.dev.json
+D:\workspace\asp.net\mvc\firstcore\bin\Debug\netcoreapp2.1\firstcore.dll
+D:\workspace\asp.net\mvc\firstcore\bin\Debug\netcoreapp2.1\firstcore.pdb
+D:\workspace\asp.net\mvc\firstcore\obj\Debug\netcoreapp2.1\firstcore.csprojAssemblyReference.cache
+D:\workspace\asp.net\mvc\firstcore\obj\Debug\netcoreapp2.1\firstcore.csproj.CoreCompileInputs.cache
+D:\workspace\asp.net\mvc\firstcore\obj\Debug\netcoreapp2.1\firstcore.AssemblyInfoInputs.cache
+D:\workspace\asp.net\mvc\firstcore\obj\Debug\netcoreapp2.1\firstcore.AssemblyInfo.cs
+D:\workspace\asp.net\mvc\firstcore\obj\Debug\netcoreapp2.1\firstcore.dll
+D:\workspace\asp.net\mvc\firstcore\obj\Debug\netcoreapp2.1\firstcore.pdb
